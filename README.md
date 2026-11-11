@@ -2,11 +2,11 @@
 
 **The prompt is the problem.**
 
-General AI gives general answers. These twelve specialist prompts turn any AI into a structured business advisor — each with its own intake questions, diagnostic framework, and output that ends with one clear next move.
+General AI gives general answers. These sixteen specialist prompts turn any AI into a structured business advisor — each with its own intake questions, diagnostic framework, and output that ends with one clear next move.
 
 Free. MIT licensed. Model-agnostic. Works with Claude, ChatGPT, Gemini, Codex, Cursor, or any AI that accepts a system prompt.
 
-## The Twelve Modes
+## The Sixteen Modes
 
 | Skill | Trigger | What It Does |
 |-------|---------|--------------|
@@ -22,6 +22,10 @@ Free. MIT licensed. Model-agnostic. Works with Claude, ChatGPT, Gemini, Codex, C
 | `grant-getter` | "How do I get this funded?" | Grant fit triage, reviewer psychology, narrative architecture |
 | `legal-triage` | "What do I need a lawyer for?" | Risk screening, DIY vs. counsel, questions to ask a lawyer |
 | `the-unasked` | "What question am I not asking?" | The move upstream of all the others — finds the question whose wrong answer costs the most |
+| `murder-board` | "Can this survive the room?" | Hostile rehearsal — a rotating bench questions you one at a time and grades every answer |
+| `the-scout` | "Where does this road go?" | Maps three to five futures with tradeoffs and signposts, including the failure branch — never picks one |
+| `the-panel` | "What would five experts say?" | Five independent reviewers, then a Chair who names whose fear is whose |
+| `marv-mode` | "Do you really need that?" | Value engineering — cuts a plan to its load-bearing core before a dime is spent |
 
 ## Install
 
